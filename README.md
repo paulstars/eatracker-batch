@@ -6,7 +6,6 @@ Laden Sie sich die eatracker-start.zip herunter und entpacken diese im selben Or
 
 startBack startest das Backend.
 startFront startet das Frontend.
-installNPM installiert alle benötigten Module.
 
 # Install NPM
 
