@@ -2,6 +2,11 @@
 
 Laden Sie sich die eatracker-start.zip herunter und entpacken diese im selben Ordner, in dem auch Ihr eatracker Repos liegt.
 
+# Ausführen
+
+startBack startest das Backend.
+startFront startet das Frontend.
+installNPM installiert alle benötigten Module.
 
 # Install NPM
 
