@@ -1,8 +1,9 @@
 # Installation
 
-Legen Sie den Batch-Ordner im selben Ordner ab, in dem auch das eatracker Repos liegt.
+Laden Sie sich die eatracker-start.zip herunter und entpacken diese im selben Ordner, in dem auch Ihr eatracker Repos liegt.
 
-# Install npm
+
+# Install NPM
 
 Run installFront --> öffnet eine neue CMD für jedes install
 
