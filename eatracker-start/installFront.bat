@@ -21,3 +21,12 @@ start npm install --save @fortawesome/free-solid-svg-icons
 
 pause
 start npm install --save @fortawesome/react-fontawesome
+
+pause
+start npm install --save react-router-dom
+
+pause
+start npm install --save chart.js react-chartjs-2
+
+pause
+start npm install --save chartjs-plugin-datalabels ausführen
